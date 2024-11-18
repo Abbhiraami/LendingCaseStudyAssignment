@@ -35,3 +35,5 @@ Exploratory Data Analysis (EDA) of a lending club company
    Prioritize aligning the principal loan amount with the borrower’s annual income and debt-to-income 
     ratio (DTI). For instance, approve higher loan amounts for customers with a DTI between 0 and 5, 
     moderate amounts for DTI between 5 and 15, and lower amounts for DTIs exceeding 15 up to 30.
+
+##### Project by: Abbhiraami S & CHetan S - C'69 Masters AI & ML

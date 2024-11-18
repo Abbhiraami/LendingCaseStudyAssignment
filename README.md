@@ -36,4 +36,4 @@ Exploratory Data Analysis (EDA) of a lending club company
     ratio (DTI). For instance, approve higher loan amounts for customers with a DTI between 0 and 5, 
     moderate amounts for DTI between 5 and 15, and lower amounts for DTIs exceeding 15 up to 30.
 
-##### Project by: Abbhiraami S & CHetan S - C'69 Masters AI & ML
+##### Project by: Abbhiraami S & Chetan S - C'69 Masters AI & ML
